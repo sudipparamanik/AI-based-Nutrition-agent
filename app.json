@@ -1,0 +1,24 @@
+{
+  "name": "ai-based-nutrition-agent",
+  "description": "AI-powered Nutrition Agent built using IBM watsonx.ai, IBM Granite Models, RAG, and Agentic AI for personalized diet recommendations and nutrition tracking.",
+  "repository": "https://github.com/YOUR_USERNAME/ai-based-nutrition-agent",
+  "logo": "https://via.placeholder.com/200",
+  "keywords": [
+    "IBM",
+    "watsonx",
+    "Granite",
+    "Nutrition",
+    "AI",
+    "RAG",
+    "Agentic AI",
+    "Health"
+  ],
+  "env": {
+    "WATSONX_API_KEY": {
+      "description": "IBM Watsonx API Key"
+    },
+    "PROJECT_ID": {
+      "description": "IBM Watsonx Project ID"
+    }
+  }
+}
